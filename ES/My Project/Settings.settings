@@ -1,0 +1,41 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="db_esConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\db_es.mdb&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\db_es.mdb</Value>
+    </Setting>
+    <Setting Name="font1" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri, 14.25pt</Value>
+    </Setting>
+    <Setting Name="font2" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri, 11.25pt</Value>
+    </Setting>
+    <Setting Name="font3" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri, 9pt</Value>
+    </Setting>
+    <Setting Name="auto1" Type="System.Windows.Forms.DataGridViewAutoSizeColumnsMode" Scope="User">
+      <Value Profile="(Default)">AllCells</Value>
+    </Setting>
+    <Setting Name="font4" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri, 18pt</Value>
+    </Setting>
+    <Setting Name="row1" Type="System.Windows.Forms.DataGridViewAutoSizeRowsMode" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="row2" Type="System.Windows.Forms.DataGridViewAutoSizeRowsMode" Scope="User">
+      <Value Profile="(Default)">AllCells</Value>
+    </Setting>
+    <Setting Name="font5" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri, 8.25pt</Value>
+    </Setting>
+    <Setting Name="font6" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Calibri, 14.25pt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
