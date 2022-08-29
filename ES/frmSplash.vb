@@ -21,6 +21,7 @@
             Me.Label3.Text = "Launching Enrollment System . . ."
         End If
 
+
     End Sub
 
 End Class
