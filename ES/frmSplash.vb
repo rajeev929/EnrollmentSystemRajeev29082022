@@ -1,7 +1,7 @@
 ﻿Public Class frmSplash
 
     Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
-
+        'rajeev changes
         Me.ProgressBar2.Value = Me.ProgressBar2.Value + 1
         Me.Label2.Text = "Loading . . . (" & Me.ProgressBar2.Value & "%)"
 
